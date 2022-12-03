@@ -52,7 +52,7 @@ body{
 
 /*Get Started*/
 #get-started{
-	background:url('../img/showcase2.jpg');
+	background:url('https://www.thestatesman.com/wp-content/uploads/2017/08/1501107729-national-emblem-of-india-getty.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	position: relative;
@@ -79,7 +79,7 @@ body{
 /*Video*/
 #video{
 	position: relative;
-	background:url('../img/video.jpg');
+	background:url('https://www.clearias.com/up/Sardar-Vallabhbhai-Patel.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
