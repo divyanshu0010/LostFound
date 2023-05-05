@@ -1,9 +1,7 @@
 html{
 	scroll-behavior: smooth;
 }
-body{
 
-}
 .navbar {
 	background:#000;
 }
@@ -19,25 +17,25 @@ body{
 	height: 500px;
 }
 .crs-img-1{
-	background: url('../img/slider-img1.jpg');
+	background: url('https://th.bing.com/th/id/R.81a779de5b8e6ac8b83d520f164d48e8?rik=OkRnDq4bwE233A&riu=http%3a%2f%2flegalserviceindia.com%2flegal%2fuploads%2finfluenceoflegislatureonjudiciary_1631949206.jpg&ehk=gcOh78FroW5Af2Rka7pPxVEQb4giliCEhLopVbUiYzw%3d&risl=&pid=ImgRaw&r=0');
 	background-size: cover;
 	background-position: center;
 	width:100%;
 }
 .crs-img-2{
-	background: url('../img/slider-img2.jpg');
+	background: url('https://wallpapercave.com/wp/wp6763726.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
 }
 .crs-img-3{
-	background: url('../img/slider-img3.jpg');
+	background: url('https://www.indiafilings.com/learn/wp-content/uploads/2018/06/Police-Clearance-Certificate.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
 }
 .crs-img-4{
-	background: url('../img/slider-img4.jpg');
+	background: url('https://wallpaperaccess.com/full/2694572.jpg');
 	background-size: cover;
 	background-position: center;
 	width:100%;
